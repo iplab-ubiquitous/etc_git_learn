@@ -1,4 +1,4 @@
 # Git Tutorial
 
 ## ubi members
-- 〇〇
+- 大和優輝
