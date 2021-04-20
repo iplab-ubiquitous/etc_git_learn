@@ -1,4 +1,4 @@
-# etc_git_learn
+# Git Tutorial
 
-# ubi members
+## ubi members
 - 〇〇
